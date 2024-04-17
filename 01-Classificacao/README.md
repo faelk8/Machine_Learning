@@ -14,6 +14,8 @@
 
 [01 - Classificação](#01---doenca-cardiaca)<br>
 [03 - Inadimplência](#03---inadiplencia)<br>
+[04 - Detecção de Fraude](#04---deteccao-de-fraude)<br>
+[05 - Satisfação](#05---satisfacao)<br1>
 
 ## 01 - Doença Cardíaca
 - Decision Tree
@@ -33,3 +35,39 @@
 - StratifiedKFold
 - Pipeline
 - Nested Grid Search
+
+## 04 - Detecção de Fraude
+- Técnicas
+  - Encoding
+  - Regressão Logistica
+  - SMOTE
+  - Randomized Search CV
+  - Random Forest Classifier
+
+- Plot
+  - AUC
+  - COnfusion Matrix
+
+- Métrica
+  - Acurácia
+  - Precissão
+  - Recall
+  - F1
+
+## 05 - Satisfação
+Prevendo satisfação do cliente
+- Técnicas
+  - DecisionTreeClassifier
+  - Cross Validation
+  - Regressão Logistica
+  - Pipeline
+  - Standard Scaler
+  - Voting Classifier
+    - Hard
+    - Soft
+    - Tuning
+  - Gaussian NB
+  - Grid Search
+  - Bagging Classifier
+  - ExtraTrees Classifier
+  - Boost Classifier
