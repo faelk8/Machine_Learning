@@ -18,23 +18,34 @@
 [05 - Satisfação](#05---satisfacao)<br1>
 
 ## 01 - Doença Cardíaca
-- Decision Tree
-- XGBoost
-- Cross Validation
-- Early Stopping
-- Random Search
-- Grid Search
-- Pipeline
+- Técnicas
+  - Decision Tree
+  - XGBoost
+  - Cross Validation
+  - Early Stopping
+  - Random Search
+  - Grid Search
+  - Pipeline
+
+## 02 - Análise Exploratória
+- Plot
+  - Correlação
+  - Value Count
+  - Histograma
+  - Box Plot
+  - Distplot
+  - Barplot
 
 ## 03 - Inadimplência
-- Decision Tree
-- Regressão Logistica
-- Recall Score
-- Standard Scaler
-- Grid Search
-- StratifiedKFold
-- Pipeline
-- Nested Grid Search
+- Técnicas
+  - Decision Tree
+  - Regressão Logistica
+  - Recall Score
+  - Standard Scaler
+  - Grid Search
+  - StratifiedKFold
+  - Pipeline
+  - Nested Grid Search
 
 ## 04 - Detecção de Fraude
 - Técnicas
@@ -46,7 +57,7 @@
 
 - Plot
   - AUC
-  - COnfusion Matrix
+  - Confusion Matrix
 
 - Métrica
   - Acurácia
@@ -55,7 +66,6 @@
   - F1
 
 ## 05 - Satisfação
-Prevendo satisfação do cliente
 - Técnicas
   - DecisionTreeClassifier
   - Cross Validation
@@ -71,3 +81,5 @@ Prevendo satisfação do cliente
   - Bagging Classifier
   - ExtraTrees Classifier
   - Boost Classifier
+    - AdaBoostClassifier
+  - Stacking Classifier
