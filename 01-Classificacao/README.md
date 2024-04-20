@@ -18,7 +18,7 @@
 [05 - Satisfação](#05---satisfacao)<br1>
 
 ## 01 - Doença Cardíaca
-- Técnicas
+- Modelo
   - Decision Tree
   - XGBoost
   - Cross Validation
@@ -37,7 +37,7 @@
   - Barplot
 
 ## 03 - Inadimplência
-- Técnicas
+- Modelo
   - Decision Tree
   - Regressão Logistica
   - Recall Score
@@ -66,7 +66,7 @@
   - F1
 
 ## 05 - Satisfação
-- Técnicas
+- Modelo
   - DecisionTreeClassifier
   - Cross Validation
   - Regressão Logistica
@@ -83,3 +83,26 @@
   - Boost Classifier
     - AdaBoostClassifier
   - Stacking Classifier
+
+## 06 - Métricas
+  - Modelo
+    - Decision Tree Classifier
+    - KFold
+    - Cross Validate
+    - Stratified KFold
+  - Processamento
+    - SMOTE
+    - NearMiss (under sample)
+  - Plot
+    - Confusion Matrix Display
+    - Roc Curve Display
+    - Precision Recall Display
+  - Métrica
+    - Score(Acurácia)
+    - Confusion Matrix
+    - Accuracy Score
+    - Precision Score
+    - Recall Score
+    - F1 Score
+    - Classification Report
+    - Average Precision Score
