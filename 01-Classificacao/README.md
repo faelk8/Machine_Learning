@@ -10,12 +10,16 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
 </div>
+<a id="0"></a>
 
+[01 - Classificação](#1)<br>
+[02 - Análise Exploratória](#2)<br>
+[03 - Inadimplência](#3)<br>
+[04 - Detecção de Fraude](#4)<br>
+[05 - Satisfação](#5)<br>
+[06 - Métricas](#6)<br>
 
-[01 - Classificação](#01---doenca-cardiaca)<br>
-[03 - Inadimplência](#03---inadiplencia)<br>
-[04 - Detecção de Fraude](#04---deteccao-de-fraude)<br>
-[05 - Satisfação](#05---satisfacao)<br1>
+<a id="1"></a>
 
 ## 01 - Doença Cardíaca
 - Modelo
@@ -27,6 +31,8 @@
   - Grid Search
   - Pipeline
 
+<a id="2"></a>
+
 ## 02 - Análise Exploratória
 - Plot
   - Correlação
@@ -35,6 +41,8 @@
   - Box Plot
   - Distplot
   - Barplot
+
+<a id="3"></a>
 
 ## 03 - Inadimplência
 - Modelo
@@ -46,6 +54,8 @@
   - StratifiedKFold
   - Pipeline
   - Nested Grid Search
+
+<a id="4"></a>
 
 ## 04 - Detecção de Fraude
 - Técnicas
@@ -65,6 +75,8 @@
   - Recall
   - F1
 
+<a id="5"></a>
+
 ## 05 - Satisfação
 - Modelo
   - DecisionTreeClassifier
@@ -83,6 +95,8 @@
   - Boost Classifier
     - AdaBoostClassifier
   - Stacking Classifier
+
+<a id="6"></a>
 
 ## 06 - Métricas
   - Modelo
