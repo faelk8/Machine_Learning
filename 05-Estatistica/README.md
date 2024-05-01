@@ -1,3 +1,5 @@
+<a id="topo"></a>
+
 <h1 align="center">
   <img src="../image/sigma.jpg" alt="pyspark" width=250 height=250px >
   <br>
@@ -11,10 +13,22 @@
 
 </div>
 
-[01 - Exploração](#01---exploração)<br>
-[02 - Probabilidade](#02---probabilidade)<br>
+
+[01 - Exploração](#1)<br>
+[02 - Probabilidade](#2)<br>
+[03 - Teste de Hipotese](#3)<br>
+[04 - Teste Estatisticos](#4)<br>
+[05 - Regressão Linear Simples](#5)<br>
+
+<a id="1"></a>
 
 ## 01 - Exploração
+
+<a id="topo"></a>
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
 * Dicionário de Dados
 * Análise Exploratória
 * Tipo de Variáveis
@@ -24,7 +38,7 @@
   * Média
   * Mediana
   * Moda
-* Media Separatrizes
+* Média Separatrizes
   * Quartis
   * Decis
   * Percentis
@@ -34,7 +48,15 @@
   * Variância
   * Desvio Padrão
 
+<a id="2"></a>
+
 ## 02 - Probabilidade
+
+<a id="topo"></a>
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
 - Distribuiçã de Probabilidade
   * Binomial
     * Combinações de Valores
@@ -53,3 +75,77 @@
     * Intervalo de Confiança
     * Tabela Normalizada (Z)
   * Tamanho da Amostra
+
+<a id="3"></a>
+
+## 03 - Teste de Hipotese
+
+<a id="topo"></a>
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+  * Teste de Normalidade
+  * Teste Paramétricos
+    * Teste Bicaudal
+    * Valor p
+    * T Student
+    * Teste Unicaudal
+    * 2 Amostras
+  * Teste Não Paramétricos
+    * Qui Quadrado
+    * Teste Wilcoxon
+    * Mann-Whitney
+
+<a id="4"></a>
+
+## 04 - Teste Estatisticos
+
+<a id="topo"></a>
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+  * Seaborn
+    * Displot
+      * Distribuição Acumulativa
+    * Boxplot
+  * Média 
+  * Quantil
+  * Teste Z
+  * Teste T
+  * Intervalo de Confiança
+  * Comparativo
+    * p-value
+    * Intervalo de Confiança
+  * Teste Normal
+  * Teste Não Paramétrico
+
+
+<a id="5"></a>
+
+## 05 - Regressão Linear Simples
+
+<a id="topo"></a>
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+  * Análise Gráfica
+    * Box Plot
+    * Linear Plot
+    * OLS (Modelo de Regressão)
+  * Correlação
+    * Covariância
+    * Coeficiente de Correlação de Pearson
+  * Regressão Linear
+    * Mínimo Quadrado
+    * Modelo 
+    * Previsão
+    * Resíduos
+    * Suposições sobre o termo de Erro
+    * Coeficiente de determinação - R²
+      * Soma do Quadrados Total (SQT)
+      * Soma do Quadrados da Regressão (SQR)
+    * Teste de Hipótese
+      * Erro Quadrático Médio (MSE)
