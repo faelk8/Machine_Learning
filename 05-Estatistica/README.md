@@ -10,7 +10,7 @@
 
 <!-- [![Status](https://img.shields.io/badge/version-1.0-blue)]() -->
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-![Static Badge](https://img.shields.io/badge/Machine%20Learning-blue)
+![Static Badge](https://img.shields.io/badge/Estatítica-blue)
 
 </div>
 
