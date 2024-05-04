@@ -10,6 +10,7 @@
 
 <!-- [![Status](https://img.shields.io/badge/version-1.0-blue)]() -->
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
+![Static Badge](https://img.shields.io/badge/Machine%20Learning-blue)
 
 </div>
 
@@ -19,6 +20,7 @@
 [03 - Teste de Hipotese](#3)<br>
 [04 - Teste Estatisticos](#4)<br>
 [05 - Regressão Linear Simples](#5)<br>
+[05.01 - Regressão Linear Multipla](#5.01)<br>
 
 <a id="1"></a>
 
@@ -149,3 +151,21 @@
       * Soma do Quadrados da Regressão (SQR)
     * Teste de Hipótese
       * Erro Quadrático Médio (MSE)
+
+<a id="5.01"></a>
+
+## 05.01 - Regressão Linear Multipla
+
+<a id="topo"></a>
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+  * Análise Gráfica
+    * Box Plot
+    * Displot
+    * Pairplot
+  * Escala Logarítmica
+  * Train Test Split
+  * Constante
+  * Sklearn
