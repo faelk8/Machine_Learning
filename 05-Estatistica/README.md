@@ -21,6 +21,7 @@
 [04 - Teste Estatisticos](#4)<br>
 [05 - Regressão Linear Simples](#5)<br>
 [05.01 - Regressão Linear Multipla](#5.01)<br>
+[05.02 - Regressão Linear](#5.02)<br>
 
 <a id="1"></a>
 
@@ -30,6 +31,7 @@
 <div align="right">
     <a href="#topo">Voltar ao topo</a>
 </div>
+Análise exploratória.
 
 * Dicionário de Dados
 * Análise Exploratória
@@ -59,7 +61,7 @@
     <a href="#topo">Voltar ao topo</a>
 </div>
 
-- Distribuiçã de Probabilidade
+Distribuiçã de Probabilidade
   * Binomial
     * Combinações de Valores
   * Poisson
@@ -160,7 +162,8 @@
 <div align="right">
     <a href="#topo">Voltar ao topo</a>
 </div>
-
+Prenvendo o valor da casa em relação a distância da praia.<br>
+  
   * Análise Gráfica
     * Box Plot
     * Displot
@@ -169,3 +172,24 @@
   * Train Test Split
   * Constante
   * Sklearn
+
+
+<a id="5.02"></a>
+
+## 05.02 - Regressão Linear
+
+<a id="topo"></a>
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+Prevendo o consumo de cerveja.
+  * Análise Gráfica
+    * Linha (Serie Temporal)
+    * Box Plot
+    * Pair Plot
+      * Todas as variáveis
+      * Uma variável
+    * Join Plot
+    * Scatter Plot
+  * Pickel
