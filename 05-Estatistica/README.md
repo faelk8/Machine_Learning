@@ -193,3 +193,19 @@ Prevendo o consumo de cerveja.
     * Join Plot
     * Scatter Plot
   * Pickel
+
+
+<a id="6"></a>
+
+## 06 - Experimento
+
+<a id="topo"></a>
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+Teste de hipótese da relação da quantidade de farinha e chocolate na produção de bolo.
+
+* Teste de Hipótese
+* Teste de Significancia 
+  * t e P>|t| 
