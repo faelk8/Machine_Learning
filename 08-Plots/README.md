@@ -14,20 +14,58 @@
 </div>
 
 
-[01 - Classificação](#1)<br>
+[01 - Linha, Barra e Pizza](#1)<br>
+[02 - Scater Plot, Box Plot e Histogram](#2
+)
+
 
 <a id="1"></a>
 
-## 01 - Classificação
+## 01 - Linha, Barra e Pizza
 
 <div align="right">
     <a href="#topo">Voltar ao topo</a>
 </div>
 
-- Gráfico de linha
-  - Série Temporal
+- Matplotlib
+  - Gráfico de linha
+    * Espessura da linha
+    * Legenda
+    * Cor
+    * Estilo da linha
+    * Time Series
+    * Grid
+    * Plot dentro de outro plot
+    * Filtro de cor
+    * Anotação
+  - Barra
+    * Cores
+  - Pizza
+    * Percentual
+    * Explodir
+
 
 <a id="2"></a>
+
+## 02 - Scater Plot, Box Plot e Histogram
+
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+- Matplotlib
+  - Scater Plot
+    * Cores
+    * Legenda
+    * Marcadores
+  - Box Plot
+    * Cores
+    * Marcador Outlier
+  - Histogram
+    * Anotação
+    * Média
+    * Mediana
+
 
 ***
 <div align="left">
