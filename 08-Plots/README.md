@@ -15,8 +15,8 @@
 
 
 [01 - Linha, Barra e Pizza](#1)<br>
-[02 - Scater Plot, Box Plot e Histogram](#2
-)
+[02 - Scater Plot, Box Plot e Histogram](#2)<br>
+[03 - Visualização com Pandas](#3)<br>
 
 
 <a id="1"></a>
@@ -66,6 +66,21 @@
     * Média
     * Mediana
 
+<a id="3"></a>
+
+## 03 - Visualização com Pandas
+
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+Configuração do pandas para formatar a saída.
+
+* Groupby
+  * Sum
+* Format
+* Style
+* Pivot
 
 ***
 <div align="left">
