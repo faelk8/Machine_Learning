@@ -19,6 +19,10 @@
 3. 📂 [03 - Imagem](#3)<br>
 4. 📂 [04 - PLN](#4)<br>
 5. 📂 [05 - Estatistica](#5)<br>
+6. 📂 [06 - Deep Learning](#6)<br>
+7. 📂 [07 - Recomendação](#7)<br>
+8. 📂 [08 - Plots](#8)<br>
+
 
 <a id="1"></a>
 
@@ -91,3 +95,41 @@
     * Desvio Médio Absoluto
     * Variância
     * Desvio Padrão
+
+<a id="6"></a>
+
+## 06 - Deep Learning
+
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+
+Exemplos de modelo de Deep Learning;
+
+
+<a id="7"></a>
+
+## 07 - Sistema de Recomendação
+
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+Código de clustering;
+
+
+<a id="8"></a>
+
+## 08 - Plots
+
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+Exemplos de gráficos.
+
+***
+<div align="left">
+    <a href="#topo">Voltar ao topo</a>
+</div>
