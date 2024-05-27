@@ -14,14 +14,14 @@
 </div>
 
 
-1. 📂 [01 - Classificação](#1)<br>
-2. 📂 [02 - Regressão](#2)<br>
-3. 📂 [03 - Imagem](#3)<br>
-4. 📂 [04 - PLN](#4)<br>
-5. 📂 [05 - Estatistica](#5)<br>
-6. 📂 [06 - Deep Learning](#6)<br>
-7. 📂 [07 - Recomendação](#7)<br>
-8. 📂 [08 - Plots](#8)<br>
+📂 [01 - Classificação](#1)<br>
+📂 [02 - Regressão](#2)<br>
+📂 [03 - Imagem](#3)<br>
+📂 [04 - PLN](#4)<br>
+📂 [05 - Estatistica](#5)<br>
+📂 [06 - Deep Learning](#6)<br>
+📂 [07 - Recomendação](#7)<br>
+📂 [08 - Plots](#8)<br>
 
 
 <a id="1"></a>
