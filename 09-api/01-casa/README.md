@@ -40,4 +40,7 @@ Garantindo as versão das bibliotecas para evitar problemas.
   ```
   source venv/bin/activate
   ```
-* Agora instale as bibliotecas.
+* Gravando a versão das bibliotecas utilizadas.
+  ```
+  pip freeze > requerimente.txt
+  ```
