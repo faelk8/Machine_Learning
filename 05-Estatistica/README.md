@@ -22,6 +22,8 @@
 [05 - Regressão Linear Simples](#5)<br>
 [05.01 - Regressão Linear Multipla](#5.01)<br>
 [05.02 - Regressão Linear](#5.02)<br>
+[06 - Experimento](#6)<br>
+[07 - Teste de Hipótese](#7)<br>
 
 <a id="1"></a>
 
@@ -209,3 +211,32 @@ Teste de hipótese da relação da quantidade de farinha e chocolate na produç�
 * Teste de Hipótese
 * Teste de Significancia 
   * t e P>|t| 
+
+
+<a id="7"></a>
+
+## 07 - Teste de Hipótese
+
+<a id="topo"></a>
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+Teste de hipótese tem tempo médio de funcionamento de uma lâmpada.
+
+* Amostra
+* Nível de Confiança
+* Intervalo de Confiança
+* Formulação da Hipótese
+  * H0
+  * H1
+* Erro
+* Z Test
+* Teste Unicaudal
+* Teste com 2 Amostras
+
+***
+<a id="topo"></a>
+<div align="left">
+    <a href="#topo">Voltar ao topo</a>
+</div>
