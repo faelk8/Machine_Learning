@@ -22,6 +22,9 @@
 📂 [06 - Deep Learning](#6)<br>
 📂 [07 - Recomendação](#7)<br>
 📂 [08 - Plots](#8)<br>
+📂 [09 - API](#9)<br>
+📂 [10 - Otimização](#10)<br>
+
 
 
 <a id="1"></a>
@@ -128,6 +131,35 @@ Código de clustering;
 </div>
 
 Exemplos de gráficos.
+
+
+<a id="9"></a>
+
+## 09 - API
+
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+Colocando o modelo em produção com o Flask, o modelo fica armazenado no Flask que recebe um json com os dados para o modelo prever e retorna uma lista com a predição.
+
+
+<a id="10"></a>
+
+## 10 - Otimização
+
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+Técnicas para validar o modelo e encontrar os melhores pârametros para o modelo.
+
+* Cross Validation
+* K-fold
+* StratifiedKFold
+* GroupKFold
+* GridSearchCV
+* RandomSearch
 
 ***
 <div align="left">
