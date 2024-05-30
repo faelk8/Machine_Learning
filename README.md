@@ -1,6 +1,6 @@
 <a id="topo"></a>
 <h1 align="center">
-  <img src="image/ml.jpeg" alt="pyspark" width=720px height=450px >
+  <img src="image/ml.jpeg" alt="machine-learning" width=720px height=450px >
   <br>
   <!-- Estudo de Caso -->
 </h1>
