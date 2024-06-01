@@ -17,6 +17,7 @@
 [01 - Cross Validation](#1)<br>
 [02 - GridSearch CV](#2)<br>
 [03 - Random Search](#3)<br>
+[04 - SMOTE](#4)<br>
 
 ***
 
@@ -69,6 +70,17 @@ Otimizando parâmetros.
 Busca aleatória.
 
 * Random Search
+
+<a id="4"></a>
+
+## 04 - SMOTE
+
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+Balanceando os dados.
+
 
 ***
 <div align="left">
