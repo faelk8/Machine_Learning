@@ -17,7 +17,7 @@
 📂 [01 - Classificação](#1)<br>
 📂 [02 - Regressão](#2)<br>
 📂 [03 - Imagem](#3)<br>
-📂 [04 - PLN](#4)<br>
+📂 [04 - NLP](#4)<br>
 📂 [05 - Estatistica](#5)<br>
 📂 [06 - Deep Learning](#6)<br>
 📂 [07 - Recomendação](#7)<br>
@@ -62,14 +62,23 @@
 
 <a id="4"></a>
 
-## 04 - PLN
+## 04 - NLP
 
 <div align="right">
     <a href="#topo">Voltar ao topo</a>
 </div>
 
-- Técnicas
-- Modelos
+
+* Bag of Words
+* Matriz Esparsa
+* Word Cloud
+* Tokenize
+* Stop Words
+* Stemmer
+* TF-IDF
+* Ngram
+* Limpeza dos Dados
+
 
 <a id="5"></a>
 
@@ -160,6 +169,7 @@ Técnicas para validar o modelo e encontrar os melhores pârametros para o model
 * GroupKFold
 * GridSearchCV
 * RandomSearch
+* SMOTE
 
 ***
 <div align="left">
