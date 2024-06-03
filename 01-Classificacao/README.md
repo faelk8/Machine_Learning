@@ -19,6 +19,7 @@
 [04 - Detecção de Fraude](#4)<br>
 [05 - Satisfação](#5)<br>
 [06 - Métricas](#6)<br>
+[07 - Credit Scoring](#7)<br>
 
 <a id="1"></a>
 
@@ -151,3 +152,29 @@
     - F1 Score
     - Classification Report
     - Average Precision Score
+
+<a id="7"></a>
+
+## 07 - Credit Scoring
+
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+  - Modelo
+    - LogisticRegression
+
+  - Métricas
+    - Accuracy Score
+    - Confusion Matrix
+    - Classification Report
+  
+  - Plots
+    - Histogram
+    - Box Plot
+
+
+***
+<div align="left">
+    <a href="#topo">Voltar ao topo</a>
+</div>
