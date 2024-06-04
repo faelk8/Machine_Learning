@@ -19,6 +19,7 @@
 [01.02 - Introdução Parte 2](#1.2)<br>
 [02 - Limpando os Dados](#2)<br>
 [03 - Classificação Multi Label](#3)<br>
+[04 - Corretor Ortográfico](#4)<br>
 
 
 ***
@@ -82,7 +83,7 @@
 
 <a id="4"></a>
 
-## 03 - Corretor Ortográfico
+## 04 - Corretor Ortográfico
 
 <div align="right">
     <a href="#topo">Voltar ao topo</a>
@@ -90,6 +91,23 @@
 
 * Token
 * Correção de Palavra
+
+
+<a id="4"></a>
+
+## 05 - Word Embedding
+
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+Tratamento de palavras raras e números na frase.
+
+* Token
+* Vetor de Palavras
+* Classificação
+
+
 
 ***
 <div align="left">
