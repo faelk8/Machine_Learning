@@ -18,6 +18,7 @@ Estudo de algoritimos de clustering.
 [01 - Classificação](#1)<br>
 [02 - Segmentação de Cliente](#2)<br>
 [03 - Extraindo Padrôes](#3)<br>
+[04 - Matrix Factorization](#4)<br>
 <a id="1"></a>
 
 ## 01 - Sistema de Recomendação Musical 
@@ -94,6 +95,20 @@ No final do Jupyter contém a descrição dos cluster.
     Conhecido como Índice Variance Ratio Criterion, mede a razão entre a soma da dispersão entre clusters e a soma da dispersão dentro dos clusters. Quanto maior o valor, melhor a qualidade da segmentação. Ele é calculado com base em:<br>
     * Dispersão total: A soma das distâncias ao centro do cluster.
     * Dispersão entre clusters: A distância entre os centros dos clusters.
+
+***
+
+## 04 - Matrix Factorization
+<div align="right">
+    <a href="#topo">Voltar ao topo</a>
+</div>
+
+Este repositório implementa um sistema de recomendação utilizando **Matrix Factorization** com o algoritmo **SVD (Singular Value Decomposition)**, por meio da biblioteca [Surprise](http://surpriselib.com/).
+
+A técnica de **fatoração de matrizes** é amplamente utilizada em sistemas de recomendação baseados em filtragem colaborativa, onde o objetivo é prever as preferências de um usuário para itens que ele ainda não avaliou.
+
+
+
 
 ***
 <div align="left">
